@@ -5,7 +5,7 @@
   "description": "Anchorific automatically generates anchored headings and nested navigations based on header tags.",
   "main": [
     "src/anchorific.js",
-    "css/anchorific.css"
+    "css/style.css"
   ],
   "moduleType": [
     "globals"
